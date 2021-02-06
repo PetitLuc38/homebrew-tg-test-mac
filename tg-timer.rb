@@ -1,7 +1,7 @@
 class TgTimer < Formula
   desc "Tool for timing mechanical watches"
   homepage "https://tg.ciovil.li"
-  url "https://github.com/vacaboja/tg/archive/NON"
+  url "https://github.com/vacaboja/tg/archive/v0.5.0.tar.gz"
   sha256 "c88889bd391212d9104bca9918fb573a4ff96a752717b4a779d33f637c633ce7"
   head "https://github.com/PetitLuc38/tg.git", :branch => "master"
 
