@@ -1,7 +1,7 @@
 class TgTimer < Formula
   desc "Tool for timing mechanical watches"
   homepage "https://tg.ciovil.li"
-  url "https://github.com/PetitLuc38/tg.git" , :tag => "5.3"
+  url "https://github.com/PetitLuc38/tg.git" , :tag => "v0.5.3"
   head "https://github.com/PetitLuc38/tg.git", :branch => "master"
 
   depends_on "pkg-config" => :build
