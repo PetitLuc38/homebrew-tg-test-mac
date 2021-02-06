@@ -1,4 +1,4 @@
-class TgTimer < Formula
+class TgTimer2 < Formula
   desc "Tool for timing mechanical watches"
   homepage "https://tg.ciovil.li"
   url "https://github.com/PetitLuc38/tg.git" , :tag => "v0.5.3"
